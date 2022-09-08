@@ -1,4 +1,4 @@
-## Luiza < Code > 5ª edição
+## Luiza < Code > 5ª edição: aceleração em Python
 
 #### Repositório com os exercícios desenvolvidos no programa Luiza < Code > criado pelo Magalu.
 
