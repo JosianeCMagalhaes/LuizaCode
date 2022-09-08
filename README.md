@@ -7,12 +7,12 @@
 </div>
 
 ## Módulos
-### Python I:
+### <img alt="logo-Python" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python:
 -
 -
 -
 
-### Git I:
+### <img alt="logo-Git" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> Git:
 -
 -
 -
